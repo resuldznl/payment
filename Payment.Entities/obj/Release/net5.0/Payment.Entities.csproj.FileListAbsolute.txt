@@ -1,0 +1,12 @@
+C:\Users\Resul\source\repos\Payment\Payment.Entities\bin\Release\net5.0\Payment.Entities.deps.json
+C:\Users\Resul\source\repos\Payment\Payment.Entities\bin\Release\net5.0\Payment.Entities.dll
+C:\Users\Resul\source\repos\Payment\Payment.Entities\bin\Release\net5.0\ref\Payment.Entities.dll
+C:\Users\Resul\source\repos\Payment\Payment.Entities\bin\Release\net5.0\Payment.Entities.pdb
+C:\Users\Resul\source\repos\Payment\Payment.Entities\obj\Release\net5.0\Payment.Entities.csproj.AssemblyReference.cache
+C:\Users\Resul\source\repos\Payment\Payment.Entities\obj\Release\net5.0\Payment.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Resul\source\repos\Payment\Payment.Entities\obj\Release\net5.0\Payment.Entities.AssemblyInfoInputs.cache
+C:\Users\Resul\source\repos\Payment\Payment.Entities\obj\Release\net5.0\Payment.Entities.AssemblyInfo.cs
+C:\Users\Resul\source\repos\Payment\Payment.Entities\obj\Release\net5.0\Payment.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Resul\source\repos\Payment\Payment.Entities\obj\Release\net5.0\Payment.Entities.dll
+C:\Users\Resul\source\repos\Payment\Payment.Entities\obj\Release\net5.0\ref\Payment.Entities.dll
+C:\Users\Resul\source\repos\Payment\Payment.Entities\obj\Release\net5.0\Payment.Entities.pdb

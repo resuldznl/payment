@@ -1,0 +1,15 @@
+C:\Users\Resul\source\repos\Payment\Payment.DAL\bin\Debug\net5.0\Payment.DAL.deps.json
+C:\Users\Resul\source\repos\Payment\Payment.DAL\bin\Debug\net5.0\Payment.DAL.dll
+C:\Users\Resul\source\repos\Payment\Payment.DAL\bin\Debug\net5.0\ref\Payment.DAL.dll
+C:\Users\Resul\source\repos\Payment\Payment.DAL\bin\Debug\net5.0\Payment.DAL.pdb
+C:\Users\Resul\source\repos\Payment\Payment.DAL\bin\Debug\net5.0\Payment.Entities.dll
+C:\Users\Resul\source\repos\Payment\Payment.DAL\bin\Debug\net5.0\Payment.Entities.pdb
+C:\Users\Resul\source\repos\Payment\Payment.DAL\obj\Debug\net5.0\Payment.DAL.csproj.AssemblyReference.cache
+C:\Users\Resul\source\repos\Payment\Payment.DAL\obj\Debug\net5.0\Payment.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Resul\source\repos\Payment\Payment.DAL\obj\Debug\net5.0\Payment.DAL.AssemblyInfoInputs.cache
+C:\Users\Resul\source\repos\Payment\Payment.DAL\obj\Debug\net5.0\Payment.DAL.AssemblyInfo.cs
+C:\Users\Resul\source\repos\Payment\Payment.DAL\obj\Debug\net5.0\Payment.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Resul\source\repos\Payment\Payment.DAL\obj\Debug\net5.0\Payment.DAL.csproj.CopyComplete
+C:\Users\Resul\source\repos\Payment\Payment.DAL\obj\Debug\net5.0\Payment.DAL.dll
+C:\Users\Resul\source\repos\Payment\Payment.DAL\obj\Debug\net5.0\ref\Payment.DAL.dll
+C:\Users\Resul\source\repos\Payment\Payment.DAL\obj\Debug\net5.0\Payment.DAL.pdb
